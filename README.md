@@ -1,4 +1,4 @@
-# TestAssignment
+# Test
 Build an Android application to show the list of users with their details.
 • Fetch the users using the API details provided below.
 • It should be a vertical scrolling list. 
